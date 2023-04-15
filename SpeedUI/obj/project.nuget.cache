@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "dgSpecHash": "qASKy0B9nuVLFXcW19cv6SW9Skq+JHzPBCWpKZQ6Ai6qtFEgqOVK6GXGbOMmtUV1aN+cVTOtQCIweX5maKFqnw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\.NET-MAUI-SIMPLE-LOGIN-PAGE\\SpeedUI\\SpeedUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.essentials.ref.android\\6.0.548\\microsoft.maui.essentials.ref.android.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.android.runtime.31.android-x86\\32.0.476\\microsoft.android.runtime.31.android-x86.32.0.476.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.controls.ref.android\\6.0.548\\microsoft.maui.controls.ref.android.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.core.runtime.android\\6.0.548\\microsoft.maui.core.runtime.android.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.android.runtime.31.android-x64\\32.0.476\\microsoft.android.runtime.31.android-x64.32.0.476.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.android.runtime.31.android-arm64\\32.0.476\\microsoft.android.runtime.31.android-arm64.32.0.476.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.controls.runtime.android\\6.0.548\\microsoft.maui.controls.runtime.android.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\6.0.13\\microsoft.aspnetcore.app.runtime.linux-arm.6.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.core.ref.android\\6.0.548\\microsoft.maui.core.ref.android.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.android.ref.31\\32.0.476\\microsoft.android.ref.31.32.0.476.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.android.runtime.31.android-arm\\32.0.476\\microsoft.android.runtime.31.android-arm.32.0.476.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.essentials.runtime.android\\6.0.548\\microsoft.maui.essentials.runtime.android.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\6.0.13\\microsoft.aspnetcore.app.runtime.linux-arm64.6.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.controls.runtime.ios\\6.0.548\\microsoft.maui.controls.runtime.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.essentials.ref.ios\\6.0.548\\microsoft.maui.essentials.ref.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.core.ref.ios\\6.0.548\\microsoft.maui.core.ref.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.ios.ref\\16.1.228\\microsoft.ios.ref.16.1.228.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.controls.ref.ios\\6.0.548\\microsoft.maui.controls.ref.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.essentials.runtime.ios\\6.0.548\\microsoft.maui.essentials.runtime.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.core.runtime.ios\\6.0.548\\microsoft.maui.core.runtime.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.controls.ref.maccatalyst\\6.0.548\\microsoft.maui.controls.ref.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64\\16.1.228\\microsoft.maccatalyst.runtime.maccatalyst-x64.16.1.228.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.essentials.ref.maccatalyst\\6.0.548\\microsoft.maui.essentials.ref.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maccatalyst.ref\\16.1.228\\microsoft.maccatalyst.ref.16.1.228.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.core.runtime.maccatalyst\\6.0.548\\microsoft.maui.core.runtime.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.controls.runtime.maccatalyst\\6.0.548\\microsoft.maui.controls.runtime.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.core.ref.maccatalyst\\6.0.548\\microsoft.maui.core.ref.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.essentials.runtime.maccatalyst\\6.0.548\\microsoft.maui.essentials.runtime.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.essentials.ref.win\\6.0.548\\microsoft.maui.essentials.ref.win.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.core.runtime.win\\6.0.548\\microsoft.maui.core.runtime.win.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.28\\microsoft.windows.sdk.net.ref.10.0.19041.28.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.controls.ref.win\\6.0.548\\microsoft.maui.controls.ref.win.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.core.ref.win\\6.0.548\\microsoft.maui.core.ref.win.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.essentials.runtime.win\\6.0.548\\microsoft.maui.essentials.runtime.win.6.0.548.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.13\\microsoft.netcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.maui.controls.runtime.win\\6.0.548\\microsoft.maui.controls.runtime.win.6.0.548.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsAppSDK"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.Graphics.Win2D"
+    }
+  ]
+}
